@@ -108,9 +108,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="motorhead.html" />
+    <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
+    <Content Include="tumblr_mc9pnrv0KS1qbw7q9o1_500.gif" />
+    <Content Include="tumblr_mc9pnrv0KS1qbw7q9o2_500.gif" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
